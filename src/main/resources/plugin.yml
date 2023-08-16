@@ -1,0 +1,4 @@
+name: Anti-Xray
+version: '${project.version}'
+main: me.project.antixray.Anti_Xray
+api-version: '1.20'
